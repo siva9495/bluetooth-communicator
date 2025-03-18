@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">bluetoothmytri</string>
+    <string name="scan_devices">Scan for Devices</string>
+    <string name="no_devices_found">No devices found</string>
+    <string name="connecting">Connecting...</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="connection_lost">Connection lost</string>
+    <string name="bluetooth_not_enabled">Bluetooth is not turned on.</string>
+    <string name="bluetooth_not_supported">Bluetooth not supported on this device</string>
+    <string name="bluetooth_must_be_enabled">Bluetooth must be enabled to use this app</string>
+    <string name="permission_required">Location permission is required for Bluetooth scanning</string>
+    <string name="bluetooth_permissions_required">Bluetooth permissions are required for this app</string>
+    <string name="connected_to">Connected to %s</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="send">Send</string>
+    <string name="type_message">Type a message...</string>
+    <string name="device_wants_to_connect">Device %s wants to connect.</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="connect">Connect</string>
+    <string name="cancel">Cancel</string>
+    <string name="setting">Setting</string>
+</resources>
