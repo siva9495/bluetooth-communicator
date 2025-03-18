@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.Bluetoothmytri" parent="Base.Theme.Bluetoothmytri" />
+
+    <style name="Theme.Toolbar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:textColorPrimary">@color/primary</item>
+        <item name="android:textColorSecondary">@color/primary</item>
+    </style>
+
 </resources>
